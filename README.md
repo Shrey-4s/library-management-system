@@ -5,10 +5,12 @@
 A web-based application designed for public libraries to manage books, members, and borrowing records efficiently. Includes role-based access for librarians (admins) and users like students, teachers, and the general public.
 
 ## Current Stage
-- Database schema diagram
-- Entity-Relationship (E-R) diagram
-- Use case diagram
-- Functional and non-functional requirements identified
+- Frontend development phase (Sprint in progress)
+- Completed previous sprint:
+  - Database schema diagram
+  - Entity-Relationship (E-R) diagram
+  - Use case diagram
+  - Functional and non-functional requirements identified
 
 ## Features
 - **Admin Functions:** Manage books, members, and borrowing records.
